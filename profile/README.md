@@ -1,4 +1,3 @@
-
 # Kibertexnik
 
 Welcome to the  **Kibertexnik** research and development team  GitHub organization! We are a team specializing in creating innovative hardware and software solutions.
@@ -37,7 +36,7 @@ We welcome contributions from developers, engineers, researchers, and enthusiast
 
 If you have any questions, suggestions, or would like to collaborate with us, feel free to reach out:
 
--   Email: hi@kibertexnik.com
+-   Email: hi@kibertexnik.uz
 -   Telegram:  [@kibertexnik](https://t.me/kibertexnik)
 
 ## License
